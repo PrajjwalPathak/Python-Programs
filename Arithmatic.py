@@ -1,3 +1,5 @@
+#Program to demonstrate the use of operators
+
 a=int(input("Enter a: "))
 b=int(input("Enter b: "))
 print("Addition: ",a+b)
