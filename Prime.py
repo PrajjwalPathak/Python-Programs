@@ -8,7 +8,7 @@ if(n==0 or n==1):
 elif(n==2 or n==3):
     print("Prime")
 else:
-    for i in range(2,n//2):
+    for i in range(2,n//2+1):
         flag==1
         break
     if(flag==0):
